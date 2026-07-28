@@ -22,6 +22,4 @@ This repository contains Verilog HDL programs developed as part of the VLSI Desi
 ## Simulation
 All programs were compiled using Icarus Verilog and verified using GTKWave.
 
-## Author
-Gouri Yadravi
-KLE Technological University, Hubballi
+
